@@ -2,7 +2,16 @@ apiVersion: v1
 entries:
   spring-chart:
   - apiVersion: v2
-    created: "2025-07-18T00:06:04.318472229Z"
+    created: "2025-07-18T23:12:34.155484239Z"
+    description: A Spring Chart For LGCMS
+    digest: 39cfc586320273b0b647f34180932b3e5153ef00f80fb57d40fa84587fa00d11
+    name: spring-chart
+    type: application
+    urls:
+    - spring-chart-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
+    created: "2025-07-18T23:12:34.155238145Z"
     description: A Spring Chart For LGCMS
     digest: 45600247baceb8f450b738bf5aa4a7548cad0bd281947dc3f79db9cb9d7b635b
     name: spring-chart
@@ -10,4 +19,4 @@ entries:
     urls:
     - spring-chart-0.0.1.tgz
     version: 0.0.1
-generated: "2025-07-18T00:06:04.31803747Z"
+generated: "2025-07-18T23:12:34.154872746Z"
