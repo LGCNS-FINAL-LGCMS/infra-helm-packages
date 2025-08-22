@@ -2,7 +2,16 @@ apiVersion: v1
 entries:
   spring-chart:
   - apiVersion: v2
-    created: "2025-08-08T09:14:21.649755979Z"
+    created: "2025-08-22T09:29:31.707898292Z"
+    description: A Spring Chart For LGCMS
+    digest: 4f199555756c9a75a31cbb32bdb58b71883a6dd5f00dcb59df01960c1d49998b
+    name: spring-chart
+    type: application
+    urls:
+    - spring-chart-0.0.6.tgz
+    version: 0.0.6
+  - apiVersion: v2
+    created: "2025-08-22T09:29:31.707678454Z"
     description: A Spring Chart For LGCMS
     digest: 8b3145810d6c56e16c9659e28ff7b79e6b52978b0ed2d244f8eb5a1c3c9d8bc1
     name: spring-chart
@@ -11,7 +20,7 @@ entries:
     - spring-chart-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v2
-    created: "2025-08-08T09:14:21.649547579Z"
+    created: "2025-08-22T09:29:31.707464814Z"
     description: A Spring Chart For LGCMS
     digest: b637fe75754666422fc9911bb5a19eccf58cfe217fdea99e204fe0cdd54d17ac
     name: spring-chart
@@ -20,7 +29,7 @@ entries:
     - spring-chart-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v2
-    created: "2025-08-08T09:14:21.649325132Z"
+    created: "2025-08-22T09:29:31.707252356Z"
     description: A Spring Chart For LGCMS
     digest: 9a2be977037d1678f8ef2f73365f923a2f989393fcdb50e3bdffabd486843473
     name: spring-chart
@@ -29,7 +38,7 @@ entries:
     - spring-chart-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v2
-    created: "2025-08-08T09:14:21.64912096Z"
+    created: "2025-08-22T09:29:31.707042371Z"
     description: A Spring Chart For LGCMS
     digest: 39cfc586320273b0b647f34180932b3e5153ef00f80fb57d40fa84587fa00d11
     name: spring-chart
@@ -38,7 +47,7 @@ entries:
     - spring-chart-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v2
-    created: "2025-08-08T09:14:21.648883034Z"
+    created: "2025-08-22T09:29:31.706799791Z"
     description: A Spring Chart For LGCMS
     digest: 45600247baceb8f450b738bf5aa4a7548cad0bd281947dc3f79db9cb9d7b635b
     name: spring-chart
@@ -46,4 +55,4 @@ entries:
     urls:
     - spring-chart-0.0.1.tgz
     version: 0.0.1
-generated: "2025-08-08T09:14:21.648484518Z"
+generated: "2025-08-22T09:29:31.706393611Z"
