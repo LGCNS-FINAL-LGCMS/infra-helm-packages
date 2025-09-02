@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   nginx-chart:
   - apiVersion: v2
-    created: "2025-09-02T06:57:33.528839201Z"
+    created: "2025-09-02T07:08:20.94543892Z"
     description: A Nginx Chart For LGCMS
     digest: c87c4958bdfabd72e2d5b572f3d634fde5099e2e0147b28b55264bafe47ff6ff
     name: nginx-chart
@@ -12,16 +12,16 @@ entries:
     version: 0.0.1
   spring-chart:
   - apiVersion: v2
-    created: "2025-09-02T06:57:33.530741027Z"
+    created: "2025-09-02T07:08:20.947335483Z"
     description: A Spring Chart For LGCMS
-    digest: 8b5232b79149a868ea48278827478ab3017323cc6c72090c510ba54f7d457514
+    digest: 2ecde1f622da4f70f46aec1ed03b026393b00f726efe6c3b281142c2a02a2fd6
     name: spring-chart
     type: application
     urls:
     - spring-chart-0.0.8.tgz
     version: 0.0.8
   - apiVersion: v2
-    created: "2025-09-02T06:57:33.530398122Z"
+    created: "2025-09-02T07:08:20.947047877Z"
     description: A Spring Chart For LGCMS
     digest: aae0a302efda1e47fb83b1f285e3d4d0f2e8aa7a596c1ce1268849d7b3eb59fe
     name: spring-chart
@@ -30,7 +30,7 @@ entries:
     - spring-chart-0.0.7.tgz
     version: 0.0.7
   - apiVersion: v2
-    created: "2025-09-02T06:57:33.530143543Z"
+    created: "2025-09-02T07:08:20.946778064Z"
     description: A Spring Chart For LGCMS
     digest: e74e0a5a81617809739cde2c85a2b4fa6ec9de757c7017ee4c27a54721d603d0
     name: spring-chart
@@ -39,7 +39,7 @@ entries:
     - spring-chart-0.0.6.tgz
     version: 0.0.6
   - apiVersion: v2
-    created: "2025-09-02T06:57:33.529953125Z"
+    created: "2025-09-02T07:08:20.946582189Z"
     description: A Spring Chart For LGCMS
     digest: 8b3145810d6c56e16c9659e28ff7b79e6b52978b0ed2d244f8eb5a1c3c9d8bc1
     name: spring-chart
@@ -48,7 +48,7 @@ entries:
     - spring-chart-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v2
-    created: "2025-09-02T06:57:33.52975333Z"
+    created: "2025-09-02T07:08:20.94635697Z"
     description: A Spring Chart For LGCMS
     digest: b637fe75754666422fc9911bb5a19eccf58cfe217fdea99e204fe0cdd54d17ac
     name: spring-chart
@@ -57,7 +57,7 @@ entries:
     - spring-chart-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v2
-    created: "2025-09-02T06:57:33.529544126Z"
+    created: "2025-09-02T07:08:20.946155224Z"
     description: A Spring Chart For LGCMS
     digest: 9a2be977037d1678f8ef2f73365f923a2f989393fcdb50e3bdffabd486843473
     name: spring-chart
@@ -66,7 +66,7 @@ entries:
     - spring-chart-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v2
-    created: "2025-09-02T06:57:33.529331356Z"
+    created: "2025-09-02T07:08:20.945944211Z"
     description: A Spring Chart For LGCMS
     digest: 39cfc586320273b0b647f34180932b3e5153ef00f80fb57d40fa84587fa00d11
     name: spring-chart
@@ -75,7 +75,7 @@ entries:
     - spring-chart-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v2
-    created: "2025-09-02T06:57:33.529074914Z"
+    created: "2025-09-02T07:08:20.945693835Z"
     description: A Spring Chart For LGCMS
     digest: 45600247baceb8f450b738bf5aa4a7548cad0bd281947dc3f79db9cb9d7b635b
     name: spring-chart
@@ -83,4 +83,4 @@ entries:
     urls:
     - spring-chart-0.0.1.tgz
     version: 0.0.1
-generated: "2025-09-02T06:57:33.528498951Z"
+generated: "2025-09-02T07:08:20.945082767Z"
